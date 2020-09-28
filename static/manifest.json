@@ -1,7 +1,7 @@
 {
-	"short_name": "Sapper + TypeScript + GraphQL",
-	"name": "Sapper with TypeScript and GraphQL project base",
-	"description": "A template that includes Svelte with Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL",
+	"short_name": "KB",
+	"name": "Kitebot",
+	"description": "Making Widgets Online",
 	"categories": ["personalization", "productivity"],
 	"lang": "en-US",
 	"dir": "ltr",
