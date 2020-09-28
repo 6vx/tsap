@@ -39,8 +39,6 @@
 
 <div class="centerer">
 	<ExampleComponent
-		title="🌐 Sapper with TypeScript and GraphQL project base"
-		paragraph="This is an example route and component to make sure everything's working." />
-	<a class="button button-pink" href="/graphql">Check out the GraphQL playground!</a>
-	<p>Words.</p>
+		title="Tim Godin"
+		paragraph="Some words go here. <3" />
 </div>
