@@ -41,4 +41,6 @@
 	<ExampleComponent
 		title="Tim Godin"
 		paragraph="Some words go here. <3" />
+
+
 </div>

@@ -9,15 +9,11 @@ const dev = mode === "development";
 
 const createSapperAndExpress = async (): Promise<Express> => {
 	const app = express();
-
-
-
 	app.use(
 		compression({ threshold: 0 }),
 		sirv("static", { dev }),
 		sapper.middleware(),
 	);
-
 	return app;
 };
 
