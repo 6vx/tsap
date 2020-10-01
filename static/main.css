@@ -1,5 +1,5 @@
 html {
-    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: monospace;
 }
 
 body {
@@ -21,6 +21,9 @@ a {
     color: pink;
     text-decoration: none;
 }
+a:visited {
+    color: pink;
+}
 a:hover {
     text-decoration: underline;
 }
@@ -30,3 +33,4 @@ a > h1 {
 a:visited > h1{
     color: white;
 }
+
