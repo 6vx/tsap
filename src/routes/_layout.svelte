@@ -20,7 +20,7 @@
 
 <svelte:head>
 	<title>
-		{path ? path.charAt(0).toUpperCase() + path.slice(1) : "Index"}
+		{path ? path.charAt(0).toUpperCase() + path.slice(1) : "Timothy Godin"}
 	</title>
 </svelte:head>
 
