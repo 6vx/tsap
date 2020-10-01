@@ -5,16 +5,13 @@
     <p>
         Here are some other places someone might want to reach me.
     </p>
-    <br>
-    <a href="https://github.com/6vx">GitHub</a>
-    <br>
-    <a href="skype:tim.godin?call">Skype</a>
+    <p><a href="https://github.com/6vx">GitHub</a></p>
+    <p><a href="skype:tim.godin?call">Skype</a></p>
+    <p><a href="https://www.linkedin.com/in/godini/">Linkedin</a></p>
 
 
 </div>
 
 <style>
-    i {
-        color: white;
-    }
+
 </style>
