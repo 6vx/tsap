@@ -35,6 +35,7 @@
 <style>
 	.main {
 		width: 100%;
+		font-family: monospace;
 	}
 	.inner {
 		max-width: 850px;
