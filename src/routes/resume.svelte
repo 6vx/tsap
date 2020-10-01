@@ -98,7 +98,8 @@
     }
     .links {
         width: 20%;
-        min-width: 175px;
+        min-width: 100px;
+        margin-bottom: 10px;
     }
     h2 {
         margin-bottom: 0;

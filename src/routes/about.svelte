@@ -9,6 +9,7 @@
         <li><a href="https://sive.rs/">Derek Sivers</a></li>
         <li><a href="https://samharris.org/">Sam Harris</a></li>
         <li><a href="https://elderscrolls.fandom.com/wiki/Vivec">Saint Vivec</a></li>
+        <li><a href="https://tim.blog/">Tim Ferriss</a></li>
     </ul>
 
     <h3>What I endeavour to accomplish</h3>
@@ -18,6 +19,8 @@
         <li>Solving puzzles that help people</li>
         <li>Make life easier for others</li>
     </ul>
+
+    
 
 
 </div>
