@@ -27,7 +27,7 @@
 <div class="main">
 	<div class="inner">
 		<Menu />
-		<hr>
+		
 		<slot/>
 	</div>
 </div>

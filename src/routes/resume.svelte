@@ -1,13 +1,14 @@
 <div>
     <div class="infoline">
-        <span><a href="mailto:tim@kitebot.ca">tim@kitebot.ca</a></span>
-        <span><a href="https://www.linkedin.com/in/godini/">/in/godini</a></span>
-        <span><a href="https://github.com/6vx">github.com/6vx</a></span>
-        <span><a href="https://www.bing.com/maps?osid=1a8ea84a-c964-4ecc-bcb9-a72c993e3a37&cp=51.099582~-114.91444&lvl=9&imgid=0eb7f083-348e-402e-bc3c-9257b8822e40&v=2&sV=2&form=S00027">Calgary, AB</a></span>
+        <div class="links"><span><a href="mailto:tim@kitebot.ca">tim@kitebot.ca</a></span></div>
+        <div class="links"><span><a href="https://www.linkedin.com/in/godini/">/in/godini</a></span></div>
+        <div class="links"><span><a href="https://github.com/6vx">github.com/6vx</a></span></div>
+        <div class="links"><span><a href="https://www.bing.com/maps?osid=1a8ea84a-c964-4ecc-bcb9-a72c993e3a37&cp=51.099582~-114.91444&lvl=9&imgid=0eb7f083-348e-402e-bc3c-9257b8822e40&v=2&sV=2&form=S00027">Calgary, AB</a></span></div>
     </div>
     
     
     <h2>Experience</h2>
+    <hr>
     <h3>Conductor <span class="right">2018-2019</span></h3>
     <h4>CN Railway <span class="right">Jasper, AB</span></h4>
     <ul>
@@ -57,6 +58,7 @@
     </ul>
 
     <h2>Education +</h2>
+    <hr>
     <ul>
         <li>Accessibility for Ontarians with Disability Act (AODA) Training</li>
         <li>National Food Handlers Safety Training Program</li>
@@ -70,6 +72,7 @@
     </ul>
 
     <h2>Service +</h2>
+    <hr>
     <ul>
         <li>Member of Bayer/Lanxess Community Advisory Panel</li>
         <li>Kidsfest Volunteer</li>
@@ -84,13 +87,21 @@
     .infoline {
         text-align: center;
         margin-top: 1em;
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        margin-bottom: 2em;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+
+    }
+    .links {
+        width: 25%;
     }
     h2 {
-        text-decoration: underline;
+        margin-bottom: 0;
+        text-align: center;
     }
-
     h4 {
         font-style: italic;
         margin-top: 0;
