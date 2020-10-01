@@ -10,7 +10,14 @@
         <li><a href="https://samharris.org/">Sam Harris</a></li>
         <li><a href="https://elderscrolls.fandom.com/wiki/Vivec">Saint Vivec</a></li>
     </ul>
+
+    <h3>What I endeavour to accomplish</h3>
     
+    <ul>
+        <li>Never stop moving</li>
+        <li>Solving puzzles that help people</li>
+        <li>Make life easier for others</li>
+    </ul>
 
 
 </div>

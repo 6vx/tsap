@@ -1,9 +1,8 @@
 <div class="homepage">
-	
 	<h2>In Brief</h2>	
 	<p>Nerd in all the ways, making widgets apps and web components.</p>
 	<p>I've been a trucker, a train conductor, a cook and a restaurant manager, and a bunch of other things, too. I enjoy working in teams, especially when the challenge is interesting.</p>
-	<p>I am introverted but delight in playing devil's advocate (more often than some like).</p>
+	<p>I am introverted but delight in playing devil's advocate, honing ideas against sharp observation.</p>
 	<p>Born and raised in Canada, mostly lived in Ontario, then BC, and currently in Alberta.</p>
 	
 	<h2>What am I doing now?</h2>
@@ -17,7 +16,5 @@
 </div>
 
 <style>
-	.homepage {
-		text-align: left;
-	}
+	
 </style>
