@@ -13,6 +13,9 @@
 	const { page } = stores();
 	let path: string;
 	$: path = $page.path.slice(1);
+
+	import Menu from '../components/Menu.svelte'
+
 </script>
 
 <svelte:head>
@@ -21,4 +24,23 @@
 	</title>
 </svelte:head>
 
-<slot/>
+<div class="main">
+	<div class="inner">
+		<Menu />
+		<hr>
+		<slot/>
+	</div>
+</div>
+
+<style>
+	.main {
+		width: 100%;
+	}
+	.inner {
+		max-width: 850px;
+		margin: 0 auto;
+		padding: 7px;
+	}
+</style>
+
+

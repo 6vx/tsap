@@ -3,12 +3,9 @@
 </script>
 
 <div>
-    <h1>Nownownow</h1>
-    <p>I'm in Calgary playing with a doggo.</p>
+    <h2>Nownownow</h2>
+    <p>I'm living in Calgary, Alberta, and working on personal projects while learning and hanging out with my friend Sophie.</p>
 </div>
 
 <style>
-    h1 {
-        font-size: large;
-    }
 </style>

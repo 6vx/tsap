@@ -1,46 +1,23 @@
-<script>
-	import ExampleComponent from "../components/ExampleComponent.svelte";
-</script>
+<div class="homepage">
+	
+	<h2>Me In 10 seconds</h2>	
+	<p>Nerd in all the ways, making widgets apps and web components.</p>
+	<p>I've been a trucker, a train conductor, a cook and a restaurant manager, and a bunch of other things, too. I enjoy working in teams, especially when the challenge is interesting.</p>
+	<p>I am introverted but delight in playing devil's advocate (more often than some like).</p>
+	<p>Born and raised in Canada, mostly lived in Ontario, then BC, and currently in Alberta.</p>
+	
+	<h2>What am I doing now?</h2>
+	<p>Check out my <a href="/now">"now"</a> page.</p>
+	
+	<h2>Me In 10 minutes</h2>
+	<p>Head over to <a href="/about">the about page</a> if you need more (creeper).</p>
+
+	<h2>Contact</h2>
+	<p>There are a few ways <a href="/contact">here.</a></p>
+</div>
 
 <style>
-	.centerer {
-		flex: 1 1 0%;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-	}
-
-	.button {
-		margin-top: 2.5rem;
-		padding: 0.75rem;
-		border-radius: 0.5rem;
-		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-		transition-property: background-color, color, box-shadow;
-		transition-duration: 200ms;
-		transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-		text-decoration: none;
-	}
-
-	.button:focus {
-		outline: 0;
-		box-shadow: 0 0 0 3px rgba(118, 169, 250, 0.45);
-	}
-
-	.button-pink {
-		color: #99154B;
-		background-color: #FAD1E8;
-	}
-
-	.button-pink:hover, .button-pink:focus {
-		background-color: #F8B4D9;
+	.homepage {
+		text-align: left;
 	}
 </style>
-
-<div class="centerer">
-	<ExampleComponent
-		title="Tim Godin"
-		paragraph="Some words go here. <3" />
-
-
-</div>

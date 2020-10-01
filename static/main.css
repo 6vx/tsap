@@ -1,5 +1,5 @@
 html {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 body {
@@ -8,10 +8,25 @@ body {
     width: 100%;
     min-height: 100vh;
     line-height: 1.0;
+    color: white;
+    background-color: black;
 }
 
 #sapper {
     display: flex;
     flex-direction: column;
     flex: 1 1 0%;
+}
+a {
+    color: pink;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a > h1 {
+    color: white;
+}
+a:visited > h1{
+    color: white;
 }
