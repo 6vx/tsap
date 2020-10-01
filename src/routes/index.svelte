@@ -3,7 +3,7 @@
         <div class="links"><span><a href="/about">about</a></span></div>
 		<div class="links"><span><a href="/portfolio">portfolio</a></span></div>
 		<div class="links"><span><a href="/resume">resume</a></span></div>
-        <div class="links"><span><a href="https://www.bing.com/maps?osid=1a8ea84a-c964-4ecc-bcb9-a72c993e3a37&cp=51.099582~-114.91444&lvl=9&imgid=0eb7f083-348e-402e-bc3c-9257b8822e40&v=2&sV=2&form=S00027">calgary</a></span></div>
+        <div class="links"><span><a href="/contact">contact</a></span></div>
     </div>
 	
 	<h2>Info</h2>	
