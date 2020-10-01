@@ -113,9 +113,6 @@
     ul {
         margin-top: 5px;
     }
-    .left {
-        text-align: left;
-    }
     .right {
         float: right;
     }
@@ -123,5 +120,4 @@
         text-align: center;
         margin-top: 2em;
     }
-
 </style>
