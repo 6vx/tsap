@@ -90,13 +90,15 @@
         margin-bottom: 2em;
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
         align-items: center;
         justify-content: center;
         width: 100%;
 
     }
     .links {
-        width: 25%;
+        width: 20%;
+        min-width: 175px;
     }
     h2 {
         margin-bottom: 0;
