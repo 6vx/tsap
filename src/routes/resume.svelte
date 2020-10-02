@@ -68,11 +68,11 @@
     <h2>Education +</h2>
     <hr>
     <ul>
+        <li>High School Graduate (Ontario Secondary School Diploma)</li>
         <li>Accessibility for Ontarians with Disability Act (AODA) Training</li>
         <li>National Food Handlers Safety Training Program</li>
         <li>Transportation of Dangerous Goods Training</li>
         <li>Emergency First Aid Level C Training</li>
-        <li>High School Graduate (OSSD)</li>
         <li>SmartServe (ON) Certified</li>
         <li>ProServe (AB) Certified</li>
         <li>Forklift Certification</li>
