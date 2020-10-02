@@ -9,6 +9,6 @@
         <li><a target="_blank" href="https://sive.rs/">Derek Sivers</a> - The opposite is also true. Do not fall into the trap of thinking you know something.</li>
         <li><a target="_blank" href="https://samharris.org/">Sam Harris</a> - Have difficult discussions. Truth is more important than anything.</li>
         <li><a target="_blank" href="https://elderscrolls.fandom.com/wiki/Vivec">Vivec</a> - Embody strength. Project loving-kindness. An iron hand in a velvet glove.</li>
-        <li><a target="_blank" href="https://tim.blog/">Tim Ferriss</a> - Prioritize based on your fears, not your desires.</li>
+        <li><a target="_blank" href="https://tim.blog/">Tim Ferriss</a> - Prioritize based on what you <i>don't</i> want, instead of your desires.</li>
     </ul>
 </div>
