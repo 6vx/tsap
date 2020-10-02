@@ -25,5 +25,5 @@
 
     <h3>How I play</h3>
     <p>I've been a co-op-aholic since as long as I can remember. There is nothing more entertaining to me than playing a game on a team, working together for a common goal, and winning things that don't matter. Diablo, Tetris, Dodgeball, or that game we just made up. I just like to play.</p>
-    <p>I enjoy running and jumping, too, so Ultimate Frisbee and Volleyball are my go-to sports. Throwing or catching things are also great.</p>
+    <p>I enjoy running and jumping, too, so Ultimate Frisbee and Volleyball are my go-to sports. Throwing or catching things = yes.</p>
 </div>
