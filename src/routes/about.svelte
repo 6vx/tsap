@@ -11,4 +11,15 @@
         <li><a target="_blank" href="https://elderscrolls.fandom.com/wiki/Vivec">Vivec</a> - Embody strength. Project loving-kindness. An iron hand in a velvet glove.</li>
         <li><a target="_blank" href="https://tim.blog/">Tim Ferriss</a> - Prioritize based on what you <i>don't</i> want, instead of your desires.</li>
     </ul>
+
+    <h3>How I got to wherever I am</h3>
+    <ul>
+        <li>1987: Emerged in London, Ontario</li>
+        <li>90's-00's: Edmonton, AB, then Sarnia, ON</li>
+        <li>2016: Adventured all over Canada, landed in Cranbrook, BC</li>
+        <li>2017: Kelowna, BC</li>        
+        <li>2018: Jasper, AB</li>
+        <li>July-August 2019: Seoul, South Korea</li>
+        <li>2020: Calgary, AB</li>
+    </ul>
 </div>
