@@ -9,6 +9,14 @@
     
     <h2>Experience</h2>
     <hr>
+    <h3>Freelance Web Developer <span class="right">2016-Present</span></h3>
+    <h4>Kitebot <span class="right">Calgary, AB</span></h4>
+    <ul>
+        <li>Deploying and maintaining apps to the Web, Alexa and more using popular cloud services including Microsoft's Azure, Amazon Web Services and Google Cloud</li>
+        <li>Creating advertising and sales materials using Adobe Photoshop</li>
+        <li>Building continuous integration and deployment workflows using Github and AWS Amplify for fast project iteration</li>
+        <li>Experience using Typescript/Javascript and popular frontend frameworks like Svelte and Vue</li>
+    </ul>
     <h3>Conductor <span class="right">2018-2019</span></h3>
     <h4>CN Railway <span class="right">Jasper, AB</span></h4>
     <ul>
@@ -105,6 +113,9 @@
         margin-bottom: 0;
         text-align: center;
     }
+    h3 {
+        margin-bottom: 0;
+    }
     h4 {
         font-style: italic;
         margin-top: 0;
@@ -112,6 +123,7 @@
     }
     ul {
         margin-top: 5px;
+        margin-bottom: 20px;
     }
     .right {
         float: right;
