@@ -12,7 +12,7 @@
     <h3>Freelance Web Developer <span class="right">2016-Present</span></h3>
     <h4>Kitebot <span class="right">Calgary, AB</span></h4>
     <ul>
-        <li>Deploying and maintaining apps on the Web, Alexa and more using popular cloud services including Microsoft's Azure, Amazon Web Services and Google Cloud</li>
+        <li>Deploying and maintaining apps on the Web, Alexa and more using popular cloud services including Amazon Web Services and Google Cloud</li>
         <li>Creating advertising and sales materials using Adobe Photoshop</li>
         <li>Building continuous integration and deployment workflows using Github and AWS Amplify for fast project iteration</li>
         <li>Experience using Typescript/Javascript and popular frontend frameworks like Svelte and Vue</li>

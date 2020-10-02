@@ -14,7 +14,7 @@
 
     <h3>How I got to where I am (like... physically.)</h3>
     <ul>
-        <li>1987: Emerged in London, Ontario</li>
+        <li>1987: Emerged in London, Ontario, Canada</li>
         <li>90's-00's: Briefly in Edmonton, AB, then mostly Sarnia, ON</li>
         <li>2016: All over Canada (is nice), then Cranbrook, BC</li>
         <li>2017: ~ Harvey & Pandosy, Kelowna, BC</li>        
