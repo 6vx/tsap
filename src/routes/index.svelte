@@ -7,10 +7,10 @@
     </div>
 	
 	<h2>Info</h2>	
-	<p>Nerd in all the ways, making widgets apps and web components.</p>
+	<p>Huge nerd in all the ways, making widgets apps and web components. If I could do anything, I'd just make doodads for people all day.</p>
 	<p>I've been a trucker, a train conductor, a cook, a restaurant manager, and a bunch of other things, too. I enjoy working in teams, especially when the challenge is interesting.</p>
 	<p>I am introverted but delight in playing devil's advocate to test ideas.</p>
-	<p>Born and raised in Canada, mostly lived in Ontario, then BC, and currently in Alberta.</p>
+	<p>Born and raised in Canada. Mostly lived in Ontario, then BC, and currently in Alberta.</p>
 	
 	<h2>What am I doing now?</h2>
 	<p>Check out my <a href="/now">"now"</a> page.</p>

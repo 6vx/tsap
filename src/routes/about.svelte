@@ -24,6 +24,7 @@
     </ul>
 
     <h3>How I play</h3>
-    <p>I've been a co-op-aholic since as long as I can remember. There is nothing more entertaining to me than playing a game on a team, working together for a common goal, and winning things that don't matter. Diablo, Tetris, Dodgeball, or that game we just made up. I just like to play.</p>
-    <p>I enjoy running and jumping, too, so Ultimate Frisbee and Volleyball are my go-to sports. Throwing or catching things = yes.</p>
+    <p>I've been a co-op-aholic since as long as I can remember. There is nothing more entertaining to me than playing a game on a team, working together for a common goal, and winning things that don't matter. D&D, Tetris, Dodgeball, or that game we just made up. I just like to play.</p>
+    <p>Diablo, Scrabble, Morrowind and Starcraft 2 all had disproportionately large amounts of playtime, but I've tried a little bit of everything.</p>
+    <p>I enjoy running and jumping, too, so Ultimate Frisbee and Volleyball are my go-to sports. Throwing or catching things = yes. Waboba.</p>
 </div>
