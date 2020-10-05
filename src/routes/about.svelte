@@ -1,6 +1,10 @@
 <div>
     <h2>Information</h2>
     
+    <p>This is for the creepers.</p>
+    <p>Generally I don't share much about myself. I don't have Facebook or most of that stuff. Enjoy, weirdos.</p>
+
+
     <h3>Why I think how I think</h3>
     
     <ul>
@@ -12,7 +16,8 @@
         <li><a target="_blank" href="https://tim.blog/">Tim Ferriss</a> - Prioritize based on what you <i>don't</i> want, instead of your desires.</li>
     </ul>
 
-    <h3>How I got to where I am (like... physically.)</h3>
+    <h3>How I got to where I am</h3>
+    <h5>(like... physically.)</h5>
     <ul>
         <li>1987: Emerged in London, Ontario, Canada</li>
         <li>90's-00's: Briefly in Edmonton, AB, then mostly Sarnia, ON</li>
@@ -26,5 +31,27 @@
     <h3>How I play</h3>
     <p>I've been a co-op-aholic since as long as I can remember. There is nothing more entertaining to me than playing a game on a team, working together for a common goal, and winning things that don't matter. D&D, Tetris, Dodgeball, or that game we just made up. I just like to play.</p>
     <p>Diablo, Scrabble, Morrowind and Starcraft 2 all had disproportionately large amounts of playtime, but I've tried a little bit of everything.</p>
-    <p>I enjoy running and jumping, too, so Ultimate Frisbee and Volleyball are my go-to sports. Throwing or catching things = yes. Waboba.</p>
+    <p>I enjoy running and jumping, too, so Ultimate Frisbee and Volleyball are my go-to sports. Throwing or catching things = yes. Waboba. Oh, and climbing things, of course.</p>
+
+    <h3>Minimalism</h3>
+    <p>I don't like having more than I need. I <i>really</i> don't like <i>wanting</i> for things I don't need.</p>
+    <p>This results in long, time-consuming mental gymnastics every time I need to replace a gadget. I am looking for something that is replaceable, but capable. Affordable, but reliable. </p>
+    <p>I also end up eating the same thing most days, because having your diet all sorted results in a lot less waste, which might be extra trips to stores for ingredients, or extra packaging for erroneous items that end up spoiling, or... well, you get the idea.</p>
+
+    <h3>Stoicism</h3>
+    <p>For a short period of time, I thought that the only thing I truly wanted was "not to want." This is a dark path. It is deceptively ethical and just and appealing, but leads nowhere.</p>
+    <p>For much longer, most of my conscious life, I've understood that the only things worth living for are the ones that <i>you choose.</i></p>
+    <p>Combining these into a healthier philosophy seems to line up with Stoicism. I haven't done all the reading, so I may be wrong, but what I've seen so far has convinced me that I belong to this group.</p>
+    
+    <h3>How I live</h3>
+    <p>I believe that unless you're playing for fun, you shouldn't be playing to win.</p>
+    <p>This philosophy may not fit precisely into stoicism, I haven't figured that out yet. I do know that it allows you to disregard a lot of the common negative emotions associated with living an examined life.</p>
+    <p>It is very easy to get wrapped up in competition, and, at least for me, when I've lost sight of <i>why</i> I'm participating in this game called life (for fun), the darkest aspects of my self can slip out.</p>
+    <p>Playing to win <i>just to win</i> is one of the most unhealthy things one can do, in my opinion. Playing to win <i>for fun</i>, though, is an intention I hope to bring to every facet of my life.</p>
 </div>
+
+<style>
+    h5 {
+        margin: 0;
+    }
+</style>
