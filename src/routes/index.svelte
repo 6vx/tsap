@@ -8,8 +8,8 @@
 	
 	<h2>Info</h2>	
 	<p>Nerd in all the ways, making widgets apps and web components.</p>
-	<p>I've been a trucker, a train conductor, a cook, a restaurant manager, and a bunch of other things, too.</p>
-	<p>I am introverted but delight in playing devil's advocate to test ideas.</p>
+	<p>I've been a restaurant manager, a train conductor, a cook, a trucker, and a bunch of other things, too.</p>
+	<p>I am introverted but delight in playing devil's advocate to test ideas. I'm interested in what makes other tick.</p>
 	<p>Born and raised in Canada. Mostly lived in Ontario, then BC, and currently in Alberta.</p>
 	
 	<h2>What am I doing now?</h2>
