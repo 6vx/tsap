@@ -29,12 +29,6 @@
         <li>2020: Calgary, AB</li>
     </ul>
 
-    <h3>How I live</h3>
-    <p>I believe that unless you're playing for fun, you shouldn't be playing to win.</p>
-    <p>This philosophy may not fit precisely into stoicism, I haven't figured that out yet (more below).</p>
-    <p>It is very easy to get wrapped up in competition, and, at least for me, when I've lost sight of <i>why</i> I'm participating, the more lizard-brain aspects of my self can slip out.</p>
-    <p>Playing to win <i>just to win</i> is one of the most unhealthy and wasteful things one can do, in my opinion. Playing to win <i>for fun</i>, though, is an intention I hope to bring to every facet of my life.</p>
-
     <h3>How I play</h3>
     <p>I've been a co-op-aholic since as long as I can remember. There is nothing more entertaining to me than playing a game on a team, working together for a common goal, and winning things that don't matter. D&D, Tetris, Dodgeball, or that game we just made up. I just like to play.</p>
     <p>Diablo, Scrabble, Morrowind and Starcraft 2 all had disproportionately large amounts of playtime, but I've tried a little bit of everything.</p>
@@ -46,13 +40,18 @@
     <p>I also end up eating the same thing most days, because having your diet all sorted results in a lot less waste. That might be extra trips to stores for ingredients, or extra packaging for erroneous items that end up spoiling, or... well, you get the idea.</p>
 
     <h3>Philosophy</h3>
+    <p>I believe that unless you're playing for fun, you shouldn't be playing to win.</p>
+    <p>So I'm here to have fun.</p>
     <p>For a short time I thought that the only thing I truly wanted was "not to want." This is a dark path. It seems logical, but to live only by logic takes one to nihilism, and you're not going to have much fun there.</p>
-    <p>Most of my conscious life, I've understood that the only things worth living for are the ones that <i>you've chosen for yourself.</i> There is no greater purpose to existence, there is no reason why we're here, no God or heaven or hell, we simply <i>are.</i> Anyone telling you different is confused or lying. Until you've chosen your own meaning, you have none, so don't waste your time trying to find it.</p>
+    <p>Most of my conscious life, I've understood that the only things worth living for are the ones that <i>you've chosen for yourself.</i> There is no greater purpose to existence, there is no reason why we're here, no God or heaven or hell, we simply <i>are.</i> Anyone telling you different is confused or lying. Until you've chosen your own meaning, you have none. So <i><b>don't</b></i> waste time trying to find meaning, and <i><b>do</b></i> spend time trying to decide yours.</p>
     <p>Only having wisdom is not enough. Only having love is not enough, either. I've heard having only one be described as walking on only one leg. Yes, you can do it, but it's more likely you'll fall down. I have a lot of experience falling down, but I think I might finally have both legs under me.</p>
 </div>
 
 <style>
     h5 {
         margin: 0;
+    }
+    li {
+        padding-top: 4px;
     }
 </style>
