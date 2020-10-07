@@ -1,5 +1,5 @@
 <div>
-    <h2>Information</h2>
+    <h2>About</h2>
     
     <p>This is for the creepers.</p>
     <p>Generally I don't share much about myself. I don't have Facebook or most of that stuff.</p>
@@ -42,13 +42,13 @@
 
     <h3>Minimalism</h3>
     <p>I don't like having more than I need (might explain this black and white, text only website). I <i>really</i> don't like <i>wanting</i> for things I don't need.</p>
-    <p>This results in long, time-consuming mental gymnastics every time I need to replace a gadget. I am looking for something that is barebones, but capable. Affordable, but reliable. </p>
+    <p>This means I despise being advertised to. It also results in long, time-consuming mental gymnastics every time I need to replace a gadget. I am looking for something that is barebones, but capable. Affordable, but reliable.</p>
     <p>I also end up eating the same thing most days, because having your diet all sorted results in a lot less waste. That might be extra trips to stores for ingredients, or extra packaging for erroneous items that end up spoiling, or... well, you get the idea.</p>
 
-    <h3>Stoicism</h3>
-    <p>For a short period of time, I thought that the only thing I truly wanted was "not to want." This is a dark path. It is deceptively shiny, but leads nowhere.</p>
-    <p>For much longer, most of my conscious life, I've understood that the only things worth living for are the ones that <i>you choose.</i></p>
-    <p>Combining these into a healthier philosophy seems to line up with Stoicism. I haven't done all the reading, so I may be wrong, but what I've seen so far has convinced me that I belong to this group.</p>
+    <h3>Philosophy</h3>
+    <p>For a short time I thought that the only thing I truly wanted was "not to want." This is a dark path. It seems logical, but to live only by logic takes one to nihilism, and you're not going to have much fun there.</p>
+    <p>Most of my conscious life, I've understood that the only things worth living for are the ones that <i>you've chosen for yourself.</i> There is no greater purpose to existence, there is no reason why we're here, no God or heaven or hell, we simply <i>are.</i> Anyone telling you different is confused or lying. Until you've chosen your own meaning, you have none, so don't waste your time trying to find it.</p>
+    <p>Only having wisdom is not enough. Only having love is not enough, either. I've heard having only one be described as walking on only one leg. Yes, you can do it, but it's more likely you'll fall down. I have a lot of experience falling down, but I think I might finally have both legs under me.</p>
 </div>
 
 <style>
