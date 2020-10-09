@@ -3,5 +3,13 @@
 </script>
 
 <div>
-    <Timelapse />
+    <div class="timelapsewidget">
+        <Timelapse />
+    </div>
 </div>
+
+<style>
+    .timelapsewidget {
+        background-color: grey;
+    }
+</style>

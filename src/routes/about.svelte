@@ -7,6 +7,7 @@
 
 
     <h3>Why I think how I think</h3>
+    <h5>Some people that influenced me, no particular order</h5>
     
     <ul>
         <li><a target="_blank" href="http://derrenbrown.co.uk/">Derren Brown</a> - Skepticism and more. Question what is influencing you.</li>
@@ -18,7 +19,7 @@
     </ul>
 
     <h3>How I got to where I am</h3>
-    <h5>(like... physically.)</h5>
+    <h5>like... physically.</h5>
     <ul>
         <li>1987: Emerged in London, Ontario, Canada</li>
         <li>90's-00's: Briefly in Edmonton, AB, then mostly Sarnia, ON</li>
@@ -39,7 +40,7 @@
     <p>This means I despise being advertised to. It also results in long, time-consuming mental gymnastics every time I need to replace a gadget. I am looking for something that is barebones, but capable. Affordable, but reliable.</p>
     <p>I also end up eating the same thing most days, because having your diet all sorted results in a lot less waste. That might be extra trips to stores for ingredients, or extra packaging for erroneous items that end up spoiling, or... well, you get the idea.</p>
 
-    <h3>Philosophy</h3>
+    <h3>More Half-Baked Philosophy</h3>
     <p>I believe that unless you're playing for fun, you shouldn't be playing to win.</p>
     <p>So I'm here to have fun.</p>
     <p>For a short time I thought that the only thing I truly wanted was "not to want." This is a dark path. It seems logical, but to live only by logic takes one to nihilism, and you're not going to have much fun there.</p>

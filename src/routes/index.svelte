@@ -1,8 +1,8 @@
 <div class="homepage">
 	<div class="infoline">
         <div class="links"><span><a href="/about">about</a></span></div>
-		<!-- <div class="links"><span><a href="/portfolio">portfolio</a></span></div> -->
-		<!-- <div class="links"><span><a href="/resume">resume</a></span></div> -->
+		<div class="links"><span><a href="/portfolio">portfolio</a></span></div>
+		<div class="links"><span><a href="/resume">resume</a></span></div>
         <div class="links"><span><a href="/contact">contact</a></span></div>
     </div>
 	
