@@ -7,9 +7,9 @@
     function handleClick(){
         show = !show;
     }   
-    let videoLength: number;
-    let videoFrames: number;
-    let frameInterval: number;
+    // let videoLength: number;
+    // let videoFrames: number;
+    // let frameInterval: number;
     let frameRateSelected: number = 30;
     let frameRateOptions: Array<number> = [24, 30, 60, 120];
     let frameIntervalSelected: number = 0.5;
