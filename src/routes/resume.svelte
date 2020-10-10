@@ -14,8 +14,8 @@
     <ul>
         <li>Deploying and maintaining apps on the Web, Alexa and more using popular cloud services including Amazon Web Services and Google Cloud</li>
         <li>Creating advertising and sales materials using Adobe Photoshop</li>
+        <li>Using Typescript/Javascript and popular frontend frameworks like Svelte and Vue</li>
         <li>Building continuous integration and deployment workflows using Github and AWS Amplify for fast project iteration</li>
-        <li>Experience using Typescript/Javascript and popular frontend frameworks like Svelte and Vue</li>
     </ul>
     <h3>Conductor <span class="right">2018-2019</span></h3>
     <h4>CN Railway <span class="right">Jasper, AB</span></h4>
@@ -65,7 +65,7 @@
         <li>Operated forklifts, balers, compactors and pump trucks safely</li>
     </ul>
 
-    <h2>Education +</h2>
+    <h2>Education+</h2>
     <hr>
     <ul>
         <li>High School Graduate (Ontario Secondary School Diploma)</li>
@@ -79,7 +79,7 @@
         <li>WHMIS Training</li>
     </ul>
 
-    <h2>Service +</h2>
+    <h2>Service+</h2>
     <hr>
     <ul>
         <li>Member of Bayer/Lanxess Community Advisory Panel</li>
