@@ -10,12 +10,13 @@
     <h5>Some people that influenced me, no particular order</h5>
     
     <ul>
-        <li><a target="_blank" href="http://derrenbrown.co.uk/">Derren Brown</a> - Skepticism and more. Question what is influencing you.</li>
         <li><a target="_blank" href="https://lostpedia.fandom.com/wiki/John_Locke">John Locke</a> - Passion. Choosing what to believe in. It's never <i>been</i> easy.</li>
         <li><a target="_blank" href="https://sive.rs/">Derek Sivers</a> - The opposite is also true. Do not fall into the trap of thinking you know something.</li>
         <li><a target="_blank" href="https://samharris.org/">Sam Harris</a> - Have difficult discussions. Truth is more important than anything.</li>
         <li><a target="_blank" href="https://elderscrolls.fandom.com/wiki/Vivec">Vivec</a> - Embody strength. Project loving-kindness. An iron hand in a velvet glove.</li>
         <li><a target="_blank" href="https://tim.blog/">Tim Ferriss</a> - Prioritize based on what you <i>don't</i> want, instead of your desires.</li>
+        <li><a target="_blank" href="http://derrenbrown.co.uk/">Derren Brown</a> - Skepticism and more. Question what is influencing you.</li>
+
     </ul>
 
     <h3>How I got to where I am</h3>
