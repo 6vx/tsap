@@ -16,7 +16,7 @@
         <h2><a target="_blank" href="https://alexa.amazon.ca/spa/index.html#skills/dp/B0796LR9LP/?ref=skill_dsk_skb_sr_0&qid=f52d2814-b111-4abc-b4b0-a2cea337dca9">Top Comment</a> - Alexa</h2>
         <h3>Serverless Voice Application - JS / Node / AWS / Lambda / SSML</h3>
         <p>Most Alexa apps are serverless functions stored on the cloud. The backends are generally written in Javascript, and they're invoked by a voice command.</p>
-        <p>My Alexa app reads a recent, highly rated short story from the subreddit "<a target="_blank" href="www.reddit.com/r/writingprompts">/r/writingprompts</a>" on Reddit.</p>
+        <p>My Alexa app reads a recent, highly rated short story from the subreddit "<a target="_blank" href="https://www.reddit.com/r/writingprompts">/r/writingprompts</a>" on Reddit.</p>
         <p>Depending on your market, language, and your settings, you may be able to invoke it by simply saying "Alexa, open Top Comment."</p>
         <p>When invoked, a <a target="_blank" href="https://aws.amazon.com/lambda/">Lambda</a> function runs on Amazon Web Services servers, fetches data and returns text marked up with Speech Synthesis Markup Language (SSML) tags for Alexa to speak.</p>
         <p>This project got me acquainted with AWS, and introduced me to SSML, which is easily one of the most neato things out there, breaking down human language into not just phonetic segments (vowels and constanants), but also prosody (rate, pitch, timbre and more).</p>
@@ -36,20 +36,5 @@
     .deprecated {
         color: grey;
     }
-    .infoline {
-            text-align: center;
-            margin-top: 1em;
-            margin-bottom: 2em;
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            align-items: center;
-            justify-content: center;
-            width: 100%;
-        }
-    .links {
-        width: 20%;
-        min-width: 125px;
-        margin-bottom: 10px;
-    }
+
 </style>
