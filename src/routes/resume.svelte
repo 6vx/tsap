@@ -1,9 +1,9 @@
 <div>
     <div class="infoline">
         <div class="links"><span><a href="mailto:tim@kitebot.ca">tim@kitebot.ca</a></span></div>
-        <div class="links"><span><a href="https://www.linkedin.com/in/godini/">/in/godini</a></span></div>
-        <div class="links"><span><a href="https://github.com/6vx">github.com/6vx</a></span></div>
-        <div class="links"><span><a href="https://www.bing.com/maps?osid=1a8ea84a-c964-4ecc-bcb9-a72c993e3a37&cp=51.099582~-114.91444&lvl=9&imgid=0eb7f083-348e-402e-bc3c-9257b8822e40&v=2&sV=2&form=S00027">Calgary, AB</a></span></div>
+        <div class="links"><span><a target="_blank" href="https://www.linkedin.com/in/godini/">/in/godini</a></span></div>
+        <div class="links"><span><a target="_blank" href="https://github.com/6vx">github.com/6vx</a></span></div>
+        <div class="links"><span><a target="_blank" href="https://www.bing.com/maps?osid=1a8ea84a-c964-4ecc-bcb9-a72c993e3a37&cp=51.099582~-114.91444&lvl=9&imgid=0eb7f083-348e-402e-bc3c-9257b8822e40&v=2&sV=2&form=S00027">Calgary, AB</a></span></div>
     </div>
     
     
