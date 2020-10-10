@@ -10,6 +10,7 @@
     <h5>Some people that influenced me, no particular order</h5>
     
     <ul>
+
         <li><a target="_blank" href="https://lostpedia.fandom.com/wiki/John_Locke">John Locke</a> - Passion. Choosing what to believe in. It's never <i>been</i> easy.</li>
         <li><a target="_blank" href="https://sive.rs/">Derek Sivers</a> - The opposite is also true. Do not fall into the trap of thinking you know something.</li>
         <li><a target="_blank" href="https://samharris.org/">Sam Harris</a> - Have difficult discussions. Truth is more important than anything.</li>

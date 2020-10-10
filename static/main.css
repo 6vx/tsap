@@ -46,8 +46,8 @@ a:visited > h1{
     width: 100%;
 }
 .links {
-width: 20%;
-min-width: 125px;
-margin-bottom: 10px;
+    width: 20%;
+    min-width: 125px;
+    margin-bottom: 10px;
 }
 
