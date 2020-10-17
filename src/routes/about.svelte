@@ -42,13 +42,13 @@
     <p>This means I despise being advertised to. It also results in long, time-consuming mental gymnastics every time I need to replace a gadget. I am looking for something that is barebones, but capable. Affordable, but reliable.</p>
     <p>I also end up eating the same thing most days, because having your diet all sorted results in a lot less waste. That might be extra trips to stores for ingredients, or extra packaging for erroneous items that end up spoiling, or... well, you get the idea.</p>
 
-    <h3>More Half-Baked Philosophy</h3>
+    <!-- <h3>More Half-Baked Philosophy</h3>
     <p>I believe that unless you're playing for fun, you shouldn't be playing to win.</p>
     <p>So I'm here to have fun.</p>
     <p>For a short time I thought that the only thing I truly wanted was "not to want." This is a dark path. It seems logical, but to live only by logic takes one to nihilism, and you're not going to have much fun there.</p>
     <p>Most of my conscious life, I've understood that the only things worth living for are the ones that <i>you've chosen for yourself.</i> There is no greater purpose to existence, there is no reason why we're here, no creator or afterlife, we simply <i>are.</i> Anyone telling you different is confused or lying. Until you've chosen your own meaning, you have none. So <i><b>don't</b></i> waste time trying to find meaning, and <i><b>do</b></i> spend time trying to decide yours.</p>
     <p>One of the best parts of knowing this is that you can come up with just about any fantastical reason to be alive. Love, a mission, a belief, whatever. As long as you don't hurt anybody else, I support your sun worship, or bumper-cars-empire, or <i>whatever</i>. Just don't try to convince me to join you. I have <a href="https://www.deathmetta.com"> my own thing.</a></p>
-    <p>Only having wisdom is not enough. Only having love is not enough, either. I've heard having only one be described as walking on only one leg. Yes, you can do it, but it's more likely you'll fall down. I have a lot of experience falling down, but I think I might finally have both legs under me.</p>
+    <p>Only having wisdom is not enough. Only having love is not enough, either. I've heard having only one be described as walking on only one leg. Yes, you can do it, but it's more likely you'll fall down. I have a lot of experience falling down, but I think I might finally have both legs under me.</p> -->
 </div>
 
 <style>
