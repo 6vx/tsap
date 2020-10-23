@@ -22,7 +22,11 @@
         },
         {
             "name":"Cheeks",
-            "description":"The Anti One Who Cannot Be"
+            "description":"The Anti - One Who Cannot Be"
+        },
+        {
+            "name":"Sophie",
+            "description":"The Guardian"
         }
         
     ]
