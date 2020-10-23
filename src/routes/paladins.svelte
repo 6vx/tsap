@@ -19,6 +19,10 @@
         {
             "name":"Kai",
             "description":"The Aspired One"
+        },
+        {
+            "name":"Cheeks",
+            "description":"The Anti One Who Cannot Be"
         }
         
     ]
