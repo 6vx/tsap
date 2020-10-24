@@ -26,7 +26,7 @@
         },
         {
             "name":"Sophie",
-            "description":"The Guardian"
+            "description":"Soul Guardian"
         }
         
     ]
