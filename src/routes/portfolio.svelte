@@ -10,7 +10,7 @@
 		<div class="links"><span><a href="/graphics">graphics</a></span></div>
         <div class="links"><span><a href="/photos">photos</a></span></div>
     </div>
-    <h2>Work in Progress, some links not yet functioning.</h2>
+    <h2>Adding more material, some links not yet working.</h2>
 
 </div>
 
