@@ -27,6 +27,10 @@
         {
             "name":"Sophie",
             "description":"Soul Guardian"
+        },
+        {
+            "name":"Danger",
+            "description":"The metal on which one hones his blade."
         }
         
     ]
