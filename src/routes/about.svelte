@@ -3,7 +3,7 @@
     
     <p>This is for the creepers.</p>
     <p>Generally I don't share much about myself. I don't have Facebook or most of that stuff.</p>
-    <p>Enjoy, weirdos.</p>
+    <!-- <p>Enjoy.</p> -->
 
 
     <h3>Why I think how I think</h3>
@@ -20,7 +20,7 @@
 
     </ul>
 
-    <h3>How I got to where I am</h3>
+    <!-- <h3>How I got to where I am</h3>
     <h5>like... physically.</h5>
     <ul>
         <li>1987: Emerged in London, Ontario, Canada</li>
@@ -30,7 +30,7 @@
         <li>2018: ~ and on the rails in Jasper, AB</li>
         <li>Summer 2019: Seoul, South Korea</li>
         <li>2020: Calgary, AB</li>
-    </ul>
+    </ul> -->
 
     <h3>How I play</h3>
     <p>I've been a co-op-aholic since as long as I can remember. There is nothing more entertaining to me than playing a game on a team, working together for a common goal, and winning things that don't matter. D&D, Tetris, Dodgeball, or that game we just made up. I just like to play.</p>
