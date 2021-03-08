@@ -3,7 +3,7 @@
 </script>
 
 <div>
-    <a href="./"><h1>Timothy Godin</h1></a>
+    <a href="./"><h1>Tim Godin</h1></a>
 </div>
 
 <style>
